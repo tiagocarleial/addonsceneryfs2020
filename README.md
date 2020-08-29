@@ -7,7 +7,9 @@
 
 Unzip and paste on your community folder of Microsoft Flight Simulator 2020
 
-###### + Created by Tiago Carleial using Blender 3d
+
+
+######  Created by Tiago Carleial using Blender 3d
 
 ###### *Please help our work donating
 
