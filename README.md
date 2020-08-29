@@ -10,7 +10,7 @@ Please help our work donating
 
 ![alt text](https://ps.w.org/button-paypal-donation/assets/icon-256x256.jpg?rev=1682981 "Donate")
 
-<a href="http://www.google.com" target="_blank"><img src="https://ps.w.org/button-paypal-donation/assets/icon-256x256.jpg?rev=1682981" 
+<a href="https://streamlabs.com/IronTiago" target="_blank"><img src="https://ps.w.org/button-paypal-donation/assets/icon-256x256.jpg?rev=1682981" 
 alt="Donate" width="100" height="130" border="10" /></a>
 
 
