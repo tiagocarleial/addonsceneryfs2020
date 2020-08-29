@@ -8,7 +8,9 @@ Created by Tiago Carleial using Blender 3d
 
 Please help our work donating 
 
-Inline-style: 
 ![alt text](https://ps.w.org/button-paypal-donation/assets/icon-256x256.jpg?rev=1682981 "Donate")
+
+<a href="http://www.google.com" target="_blank"><img src="https://ps.w.org/button-paypal-donation/assets/icon-256x256.jpg?rev=1682981" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
